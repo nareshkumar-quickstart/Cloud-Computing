@@ -1,0 +1,33 @@
+div {
+width: 100px;
+height: 100px;
+margin: 10px;
+cursor:progress;}
+
+#reddiv{background-color: red;}
+
+/* cursor: none;} */
+
+#yellowdiv{background-color: yellow;}
+
+div:nth-of-type(3){background-color: green;}
+
+nav img{
+    width: 50px;
+    margin: 1px 0px 0px 100px;
+}
+
+nav{background-color: aqua;
+    position: relative;
+    display:flex;
+    justify-content: center;
+}
+
+nav ul{
+    list-style: none;
+    display: inline;
+color: white;
+text-decoration: none;
+font-size: x-large;}
+
+/*Comment*/
